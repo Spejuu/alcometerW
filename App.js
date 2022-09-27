@@ -3,7 +3,6 @@ import { Button, StyleSheet, Text, TextInput, View } from 'react-native';
 import DropDownPicker from 'react-native-dropdown-picker';
 import RadioForm from 'react-native-simple-radio-button';
 
-// Tested with android
 
 export default function App() {
   const [weight, setWeight] = useState('0');
